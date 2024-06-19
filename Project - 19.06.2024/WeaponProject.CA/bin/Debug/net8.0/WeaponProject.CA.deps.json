@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeaponProject.CA/1.0.0": {
+        "dependencies": {
+          "WeaponProject.Business": "1.0.0"
+        },
+        "runtime": {
+          "WeaponProject.CA.dll": {}
+        }
+      },
+      "WeaponProject.Business/1.0.0": {
+        "dependencies": {
+          "WeaponProject.Data": "1.0.0"
+        },
+        "runtime": {
+          "WeaponProject.Business.dll": {}
+        }
+      },
+      "WeaponProject.Core/1.0.0": {
+        "runtime": {
+          "WeaponProject.Core.dll": {}
+        }
+      },
+      "WeaponProject.Data/1.0.0": {
+        "dependencies": {
+          "WeaponProject.Core": "1.0.0"
+        },
+        "runtime": {
+          "WeaponProject.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeaponProject.CA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeaponProject.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeaponProject.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeaponProject.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

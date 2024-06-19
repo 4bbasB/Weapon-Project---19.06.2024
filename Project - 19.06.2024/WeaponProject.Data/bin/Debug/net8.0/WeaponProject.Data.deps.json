@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeaponProject.Data/1.0.0": {
+        "dependencies": {
+          "WeaponProject.Core": "1.0.0"
+        },
+        "runtime": {
+          "WeaponProject.Data.dll": {}
+        }
+      },
+      "WeaponProject.Core/1.0.0": {
+        "runtime": {
+          "WeaponProject.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeaponProject.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeaponProject.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

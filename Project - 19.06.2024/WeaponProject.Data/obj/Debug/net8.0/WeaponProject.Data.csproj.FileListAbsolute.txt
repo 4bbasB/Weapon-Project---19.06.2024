@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\bin\Debug\net8.0\WeaponProject.Data.deps.json
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\bin\Debug\net8.0\WeaponProject.Data.dll
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\bin\Debug\net8.0\WeaponProject.Data.pdb
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\obj\Debug\net8.0\WeaponProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\obj\Debug\net8.0\WeaponProject.Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\obj\Debug\net8.0\WeaponProject.Data.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\obj\Debug\net8.0\WeaponProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\obj\Debug\net8.0\WeaponProject.Data.sourcelink.json
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\obj\Debug\net8.0\WeaponProject.Data.dll
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\obj\Debug\net8.0\refint\WeaponProject.Data.dll
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\obj\Debug\net8.0\WeaponProject.Data.pdb
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\obj\Debug\net8.0\ref\WeaponProject.Data.dll
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\bin\Debug\net8.0\WeaponProject.Core.dll
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\bin\Debug\net8.0\WeaponProject.Core.pdb
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\obj\Debug\net8.0\WeaponProject.Data.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Project - 19.06.2024\WeaponProject.Data\obj\Debug\net8.0\WeaponPr.8199B2DD.Up2Date

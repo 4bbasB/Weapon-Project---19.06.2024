@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Project - 19.06.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A079179-65F4-4BD1-A723-456339D669B9}|WeaponProject.Business\\WeaponProject.Business.csproj|c:\\users\\lenovo\\source\\repos\\project - 19.06.2024\\weaponproject.business\\services\\implementations\\weaponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A079179-65F4-4BD1-A723-456339D669B9}|WeaponProject.Business\\WeaponProject.Business.csproj|solutionrelative:weaponproject.business\\services\\implementations\\weaponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8853B1-4BC0-4228-AAAE-F9AE8950B27C}|WeaponProject.CA\\WeaponProject.CA.csproj|c:\\users\\lenovo\\source\\repos\\project - 19.06.2024\\weaponproject.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8853B1-4BC0-4228-AAAE-F9AE8950B27C}|WeaponProject.CA\\WeaponProject.CA.csproj|solutionrelative:weaponproject.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A079179-65F4-4BD1-A723-456339D669B9}|WeaponProject.Business\\WeaponProject.Business.csproj|c:\\users\\lenovo\\source\\repos\\project - 19.06.2024\\weaponproject.business\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A079179-65F4-4BD1-A723-456339D669B9}|WeaponProject.Business\\WeaponProject.Business.csproj|solutionrelative:weaponproject.business\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AE50CC-6C50-4EA5-809B-A19C67B3FFC1}|WeaponProject.Data\\WeaponProject.Data.csproj|c:\\users\\lenovo\\source\\repos\\project - 19.06.2024\\weaponproject.data\\dal\\weapondatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AE50CC-6C50-4EA5-809B-A19C67B3FFC1}|WeaponProject.Data\\WeaponProject.Data.csproj|solutionrelative:weaponproject.data\\dal\\weapondatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5834F563-331C-43BC-BE5A-B1C6A24F8012}|WeaponProject.Core\\WeaponProject.Core.csproj|c:\\users\\lenovo\\source\\repos\\project - 19.06.2024\\weaponproject.core\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5834F563-331C-43BC-BE5A-B1C6A24F8012}|WeaponProject.Core\\WeaponProject.Core.csproj|solutionrelative:weaponproject.core\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A079179-65F4-4BD1-A723-456339D669B9}|WeaponProject.Business\\WeaponProject.Business.csproj|c:\\users\\lenovo\\source\\repos\\project - 19.06.2024\\weaponproject.business\\services\\interfaces\\iweaponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A079179-65F4-4BD1-A723-456339D669B9}|WeaponProject.Business\\WeaponProject.Business.csproj|solutionrelative:weaponproject.business\\services\\interfaces\\iweaponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project - 19.06.2024\\WeaponProject.Business\\Controller\\Controller.cs",
+              "RelativeDocumentMoniker": "WeaponProject.Business\\Controller\\Controller.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project - 19.06.2024\\WeaponProject.Business\\Controller\\Controller.cs",
+              "RelativeToolTip": "WeaponProject.Business\\Controller\\Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:28:37.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project - 19.06.2024\\WeaponProject.CA\\Program.cs",
+              "RelativeDocumentMoniker": "WeaponProject.CA\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project - 19.06.2024\\WeaponProject.CA\\Program.cs",
+              "RelativeToolTip": "WeaponProject.CA\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwEAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:09:29.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeaponService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project - 19.06.2024\\WeaponProject.Business\\Services\\Implementations\\WeaponService.cs",
+              "RelativeDocumentMoniker": "WeaponProject.Business\\Services\\Implementations\\WeaponService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project - 19.06.2024\\WeaponProject.Business\\Services\\Implementations\\WeaponService.cs",
+              "RelativeToolTip": "WeaponProject.Business\\Services\\Implementations\\WeaponService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:53:21.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWeaponService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project - 19.06.2024\\WeaponProject.Business\\Services\\Interfaces\\IWeaponService.cs",
+              "RelativeDocumentMoniker": "WeaponProject.Business\\Services\\Interfaces\\IWeaponService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project - 19.06.2024\\WeaponProject.Business\\Services\\Interfaces\\IWeaponService.cs",
+              "RelativeToolTip": "WeaponProject.Business\\Services\\Interfaces\\IWeaponService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:52:37.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeaponDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project - 19.06.2024\\WeaponProject.Data\\DAL\\WeaponDatabase.cs",
+              "RelativeDocumentMoniker": "WeaponProject.Data\\DAL\\WeaponDatabase.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project - 19.06.2024\\WeaponProject.Data\\DAL\\WeaponDatabase.cs",
+              "RelativeToolTip": "WeaponProject.Data\\DAL\\WeaponDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:09:58.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project - 19.06.2024\\WeaponProject.Core\\Models\\Weapon.cs",
+              "RelativeDocumentMoniker": "WeaponProject.Core\\Models\\Weapon.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project - 19.06.2024\\WeaponProject.Core\\Models\\Weapon.cs",
+              "RelativeToolTip": "WeaponProject.Core\\Models\\Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:06:48.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
